@@ -11,7 +11,7 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 
@@ -35,7 +35,7 @@
 
 .navbar a {
   float: left;
-  font-size: 22px;
+  font-size: 18px;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -50,7 +50,7 @@
 
 
 .dropdown .dropbtn {
-  font-size: 22px;
+  font-size: 18px;
   border: none;
   outline: none;
   color: #E2E9EB;

@@ -21,7 +21,7 @@ const navBarHtml = `
         </div>
 
         <div class="dropdown">
-            <button class="dropbtn">Threat Trends
+            <button class="dropbtn">Threat Modeling
                 <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
@@ -32,8 +32,6 @@ const navBarHtml = `
             </div>
         </div>
         
-        <a href="assets.html">Critical Assets</a>
-
         <div class="dropdown">
             <button class="dropbtn">Diamond Models
                 <i class="fa fa-caret-down"></i>
@@ -43,10 +41,13 @@ const navBarHtml = `
                 <a href="./diamondModels/hr.html">HR Information</a>
             </div>
         </div>
-
+        <!-- 
         <a href="insights.html">Key Insights</a>
         <a href="operationalintel.html">Operational Intel</a>
         <a href="platform.html">Platform Direction</a>
+        --> 
+        <a href="aboutus.html">About Us</a>
+        <a href="references.html">References</a>
     </div>
 
 </html> 
