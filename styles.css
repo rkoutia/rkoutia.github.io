@@ -1,0 +1,60 @@
+
+
+
+.homeTitle {
+    padding-top: 10%;
+    color: #378DBD;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.fullpageimg{
+    padding-top: 5%;
+    padding-left: 8%;
+}
+
+.indexImage {
+  padding-top: 1%;
+  padding-left:42%;
+}
+
+.nameIndex {
+  color: #AB0520;
+  font-size:18px;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: .5%;
+}
+
+.authorBlock {
+  padding-top:20%;
+}
+
+h1 {
+    color: #AB0520;
+    padding-top: 2%;
+}
+
+h2 {
+    color: #0C234B;
+    padding-top: 1%;
+}
+
+h3 {
+    padding-top: 1%;
+    color: #378DBD;
+}
+
+h4 {
+  font-style: italic;
+    color: #81D3EB;
+}
+
+li {
+    padding-bottom: .5%;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
