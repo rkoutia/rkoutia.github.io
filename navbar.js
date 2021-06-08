@@ -59,6 +59,32 @@ const navBarHtml = `
         </div>
 
         <div class="dropdown">
+            <button class="dropbtn">Data Summary
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="./dataSummary/shodan.html">Data Source: Shodan</a>
+                <a href="./dataSummary/dreammarket.html">Data Source: Dream Dark Net Market</a>
+                <a href="./dataSummary/darknetforum.html">Data Source: Dark Net Forum</a>
+                <a href="./dataSummary/urlhaus.html">Data Source: URL Haus</a>
+            </div>
+        </div>
+
+        <div class="dropdown">
+            <button class="dropbtn">Data Example
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="./dataExample/shodan.html">Shodan</a>
+                <a href="./dataExample/dreammarketproduct.html">Dream Dark Net Market: Product</a>
+                <a href="./dataExample/dreammarketseller.html">Dream Dark Net Market: Seller</a>
+                <a href="./dataExample/darknetforumsilkroad.html">Dark Net Forum: Silkroad</a>
+                <a href="./dataExample/darknetforumwallstreet.html">Dark Net Forum: Wallstreet</a>
+                <a href="./dataExample/urlhaus.html">URL Haus</a>
+            </div>
+        </div>
+
+        <div class="dropdown">
         <button class="dropbtn">References
             <i class="fa fa-caret-down"></i>
         </button>
@@ -67,12 +93,7 @@ const navBarHtml = `
             <a href="./references/references.html">Document References</a>
         </div>
     </div>
-        <!-- 
-        <a href="insights.html">Key Insights</a>
-        <a href="operationalintel.html">Operational Intel</a>
-        <a href="platform.html">Platform Direction</a>
-        --> 
-        <a href="aboutus.html">About Us</a>
+            <a href="aboutus.html">About Us</a>
     </div>
 
 </html> 
