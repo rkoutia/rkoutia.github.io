@@ -67,6 +67,7 @@ const navBarHtml = `
                 <a href="./dataSummary/dreammarket.html">Data Source: Dream Dark Net Market</a>
                 <a href="./dataSummary/darknetforum.html">Data Source: Dark Net Forum</a>
                 <a href="./dataSummary/urlhaus.html">Data Source: URL Haus</a>
+                <a href="./dataSummary/datasourcesummary.html">Data Source Summary</a>
             </div>
         </div>
 
