@@ -64,9 +64,9 @@ const navBarHtml = `
             </button>
             <div class="dropdown-content">
                 <a href="./dataSummary/shodan.html">Data Source: Shodan</a>
-                <a href="./dataSummary/dreammarket.html">Data Source: Dream Dark Net Market</a>
-                <a href="./dataSummary/darknetforum.html">Data Source: Dark Net Forum</a>
-                <a href="./dataSummary/urlhaus.html">Data Source: URL Haus</a>
+                <a href="./dataSummary/darknetmarkets.html">Data Source: Dark Net Markets</a>
+                <a href="./dataSummary/darknetforums.html">Data Source: Dark Net Forums</a>
+                <a href="./dataSummary/urlhaus.html">Data Source: URLHaus</a>
                 <a href="./dataSummary/datasourcesummary.html">Data Source Summary</a>
             </div>
         </div>
@@ -77,10 +77,10 @@ const navBarHtml = `
             </button>
             <div class="dropdown-content">
                 <a href="./dataExample/shodan.html">Shodan</a>
-                <a href="./dataExample/dreammarketproduct.html">Dream Dark Net Market: Product</a>
-                <a href="./dataExample/dreammarketseller.html">Dream Dark Net Market: Seller</a>
-                <a href="./dataExample/darknetforumsilkroad.html">Dark Net Forum: Silkroad</a>
-                <a href="./dataExample/darknetforumwallstreet.html">Dark Net Forum: Wallstreet</a>
+                <a href="./dataExample/darknetmarketsproduct.html">Dark Net Markets: Product</a>
+                <a href="./dataExample/darknetmarketsseller.html">Dark Net Markets: Seller</a>
+                <a href="./dataExample/darknetforumsilkroad.html">Dark Net Forums: Silkroad</a>
+                <a href="./dataExample/darknetforumswallstreet.html">Dark Net Forums: Wallstreet</a>
                 <a href="./dataExample/urlhaus.html">URL Haus</a>
             </div>
         </div>
