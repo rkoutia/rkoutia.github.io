@@ -63,6 +63,7 @@ const navBarHtml = `
                 <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
+                <a href="./dataSummary/datasourcedescriptions.html">Data Source Descriptions</a>
                 <a href="./dataSummary/shodan.html">Data Source: Shodan</a>
                 <a href="./dataSummary/darknetmarkets.html">Data Source: Dark Net Markets</a>
                 <a href="./dataSummary/darknetforums.html">Data Source: Dark Net Forums</a>
