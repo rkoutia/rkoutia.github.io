@@ -87,6 +87,19 @@ const navBarHtml = `
         </div>
 
         <div class="dropdown">
+        <button class="dropbtn">Analytics
+            <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+            <a href="./analytics/analyticapproach.html">Analytic Approach</a>
+            <a href="./analytics/textminingwordfrequency.html">Text Mining Word Frequency</a>
+            <a href="./analytics/reputationservices.html">Reputation Services</a>
+            <a href="./analytics/textminingthreatactors.html">Text Mining Key Words Prominent Threat Actors</a>
+            <a href="./analytics/retailportanalysis.html">Retail Port Analysis</a>
+        </div>
+    </div>
+
+        <div class="dropdown">
         <button class="dropbtn">References
             <i class="fa fa-caret-down"></i>
         </button>
