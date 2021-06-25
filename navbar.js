@@ -93,6 +93,7 @@ const navBarHtml = `
             <a href="./analytics/retailportanalysis.html">Retail Port Analysis</a>
         </div>
     </div>
+    
     <div class="dropdown">
             <button class="dropbtn">Operational Intelligence
                 <i class="fa fa-caret-down"></i>
