@@ -98,10 +98,10 @@ const navBarHtml = `
                 <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-                <a href="./operationalintelligence/keyinsights.html">Key Insights and Intelligence Summary</a>
+                <a href="./operationalIntelligence/keyinsights.html">Key Insights and Intelligence Summary</a>
             </div>
         </div>
-        
+
         <div class="dropdown">
         <button class="dropbtn">References
             <i class="fa fa-caret-down"></i>
