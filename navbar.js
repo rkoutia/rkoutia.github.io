@@ -1,6 +1,5 @@
 const navBarHtml = `
 <html>
-
     <head>
         <base target="/" href="/">
         <link rel="stylesheet" href="navbar.css">
@@ -22,7 +21,6 @@ const navBarHtml = `
                 <a href="./background/threatactors.html">Threat Actors</a>
                 </div>
         </div>
-
         <div class="dropdown">
             <button class="dropbtn">Threat Modeling
                 <i class="fa fa-caret-down"></i>
@@ -57,7 +55,6 @@ const navBarHtml = `
                 <a href="./diamondModels/ddosattack.html">DDOS Attack</a>
             </div>
         </div>
-
         <div class="dropdown">
             <button class="dropbtn">Data Summary
                 <i class="fa fa-caret-down"></i>
@@ -71,7 +68,6 @@ const navBarHtml = `
                 <a href="./dataSummary/datasourcesummary.html">Data Source Summary</a>
             </div>
         </div>
-
         <div class="dropdown">
             <button class="dropbtn">Data Example
                 <i class="fa fa-caret-down"></i>
@@ -85,7 +81,6 @@ const navBarHtml = `
                 <a href="./dataExample/urlhaus.html">URL Haus</a>
             </div>
         </div>
-
         <div class="dropdown">
         <button class="dropbtn">Analytics
             <i class="fa fa-caret-down"></i>
@@ -98,7 +93,15 @@ const navBarHtml = `
             <a href="./analytics/retailportanalysis.html">Retail Port Analysis</a>
         </div>
     </div>
-
+    <div class="dropdown">
+            <button class="dropbtn">Operational Intelligence
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="./operationalintelligence/keyinsights.html">Key Insights and Intelligence Summary</a>
+            </div>
+        </div>
+        
         <div class="dropdown">
         <button class="dropbtn">References
             <i class="fa fa-caret-down"></i>
@@ -110,8 +113,7 @@ const navBarHtml = `
     </div>
             <a href="aboutus.html">About Us</a>
     </div>
-
-</html> 
+</html> 
 `
 
 window.onload = () => {
